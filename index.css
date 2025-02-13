@@ -248,3 +248,7 @@ p {
 .head-line {
   padding-right: 50px;
 }
+
+.navbar {
+  background-color: #f8f9fa;
+}
